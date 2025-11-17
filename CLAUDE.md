@@ -163,7 +163,7 @@ git push origin main
 
 ### Important Notes
 
-- **Repository**: Private GitHub repository at https://github.com/123olp/ys
+- **Repository**: Private GitHub repository at https://github.com/tukuaiai/Phase_Space
 - **Branch**: Currently on `main` branch
 - **Status**: Clean working directory (as of conversation start)
 - **Never skip hooks**: Do not use `--no-verify` or similar flags
@@ -480,7 +480,7 @@ Specific technical documents
 - **Always auto-commit** before major destructive changes
 - Use HEREDOC format for commit messages
 - Include "🤖 Generated with Claude Code" footer
-- Push to private repository at https://github.com/123olp/ys
+- Push to private repository at https://github.com/tukuaiai/Phase_Space
 
 ### Understanding Success
 

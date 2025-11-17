@@ -320,7 +320,7 @@ Under the following terms:
 
 ## 💬 Contact
 
-- **GitHub**: [@123olp](https://github.com/123olp)
+- **GitHub**: [@tukuaiai](https://github.com/tukuaiai)
 - **Email**: immortality@possibilism.org (to be established)
 - **Discord**: Possibilism Hub (to be established)
 - **Twitter**: @PossibilismHub (to be established)
@@ -359,6 +359,6 @@ Special tribute to:
 
 ⭐ If this project inspires you, please give us a Star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=123olp/ys&type=Date)](https://star-history.com/#123olp/ys&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tukuaiai/Phase_Space&type=Date)](https://star-history.com/#tukuaiai/Phase_Space&Date)
 
 </div>

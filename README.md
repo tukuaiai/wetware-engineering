@@ -482,7 +482,7 @@ gantt
 
 ## 💬 联系方式
 
-- **GitHub**: [@123olp](https://github.com/123olp)
+- **GitHub**: [@tukuaiai](https://github.com/tukuaiai)
 - **Email**: immortality@possibilism.org (待建立)
 - **Discord**: Possibilism Hub (待建立)
 - **Twitter**: @PossibilismHub (待建立)
@@ -562,7 +562,7 @@ gantt
 
 ### ⭐ 如果这个项目对你有启发，请给我们一个 Star！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=123olp/ys&type=Date)](https://star-history.com/#123olp/ys&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tukuaiai/Phase_Space&type=Date)](https://star-history.com/#tukuaiai/Phase_Space&Date)
 
 ---
 
